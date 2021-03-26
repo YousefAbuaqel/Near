@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004065334056",
+    "project_id": "nire-d2975",
+    "storage_bucket": "nire-d2975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004065334056:android:463479c5de5424c24d261d",
+        "android_client_info": {
+          "package_name": "com.mine.near"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004065334056-03lor253nkm0fa2n28ts013ncf30s22r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYniWIZX8A9q8QlzT8Ay3Sl87SVnCHLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004065334056-03lor253nkm0fa2n28ts013ncf30s22r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
